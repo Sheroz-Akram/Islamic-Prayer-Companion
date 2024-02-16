@@ -27,6 +27,11 @@ and Duas will deepen their understanding of the religion. The Quran recitation f
 users to understand and contemplate the Quran easily. The reminders feature will help users stay organized and
 on schedule.
 
+
+### Screen Shots
+![Home Page](./screens/1.jpg)
+![Quran Recitation](./screens/2.jpg)
+
 ### Platform:
 The app will be developed for the Android platform and will be available for download on the Google Play Store.
 
