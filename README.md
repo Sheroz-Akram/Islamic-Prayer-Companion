@@ -6,14 +6,14 @@ prayers and other religious obligations. The app provides accurate prayer timing
 (prayer counting) functionality and Quran recitation with translation all in one convenient location.
 
 ### Features:
-• Accurate prayer timings based on the user's current location
-• Qibla direction indicator using the device's built-in compass
-• Tasbeeh (prayer counting) feature with customizable settings
-• Azan (call to prayer) alarm for each prayer
-• Daily Hadith (sayings of Prophet Muhammad) and Duas (supplications)
-• Quran recitation with multiple translations in different languages
-• Option to set reminders for prayer timings and other religious obligations
-• Easy-to-use interface with minimalistic design
+- Accurate prayer timings based on the user's current location
+- Qibla direction indicator using the device's built-in compass
+- Tasbeeh (prayer counting) feature with customizable settings
+- Azan (call to prayer) alarm for each prayer
+- Daily Hadith (sayings of Prophet Muhammad) and Duas (supplications)
+- Quran recitation with multiple translations in different languages
+- Option to set reminders for prayer timings and other religious obligations
+- Easy-to-use interface with minimalistic design
 
 ### Target Audience:
 The target audience for this app is primarily Muslims of all ages who are looking for an easy and convenient way
