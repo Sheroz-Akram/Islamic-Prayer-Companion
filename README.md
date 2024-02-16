@@ -29,8 +29,15 @@ on schedule.
 
 
 ### Screen Shots
-![Home Page](./screens/1.jpg)
-![Quran Recitation](./screens/2.jpg)
+<div>
+  <img src="./screens/1.jpg" width="200px">
+  <img src="./screens/5.jpg" width="200px">
+</div>
+
+<div>
+  <img src="./screens/7.jpg" width="200px">
+  <img src="./screens/4.jpg" width="200px">
+</div>
 
 ### Platform:
 The app will be developed for the Android platform and will be available for download on the Google Play Store.
